@@ -1,6 +1,10 @@
 # Questions-App
 Do you have any difficult decisions to make? Don't worry! With this application, all of your questions will be answered immediately.
 
+These are a few of the answers you can get:
+
+<img src='Documentation/image_1.png' width='150'><img src='Documentation/image_2.png' width='150'><img src='Documentation/image_3.png' width='150'>
+
 ## Getting Started
 To get started with Dice-App, follow these steps:
 
